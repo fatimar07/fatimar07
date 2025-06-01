@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Fatima
 
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/371756395-cf3b95d6-7889-47cf-9456-ce0c96c664d5.gif" />
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216656971-9a208a88-e6ad-4b7a-88eb-c410e4cf0e00.gif" />
 
 💻 **Software Engineer | Web Enthusiast | Cloud Explorer**
 
@@ -23,7 +23,7 @@ I am passionate about continuous learning and staying up-to-date with the latest
 - 🔗 [**Finsight**](https://github.com/fatimar07/finsight)  
   A comprehensive finance platform designed to help users manage and track their financial goals.
 
-- 🔗 [**Tax Estimator**](https://github.com/fatimar07/tax-estimator)  
+- 🔗 [**Tax Estimator**](https://github.com/fatimar07/Can-Tax-Estimator)  
   A web app designed specifically for self-employed professionals to easily estimate taxes.
 
 ---
@@ -46,9 +46,7 @@ I am passionate about continuous learning and staying up-to-date with the latest
 
 ---
 
-### 📊 GitHub Stats
-![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatimar07&show_icons=true&theme=radical)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=fatimar07&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 ---
 
