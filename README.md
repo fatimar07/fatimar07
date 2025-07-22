@@ -9,13 +9,13 @@
 ---
 
 ### 🧩 About Me
-I'm Fatima, a **software engineer** from St. John's, Newfoundland.
+I'm Fatima, a **software developer** from St. John's, Newfoundland.
 
 Skilled in various technologies including **JavaScript**, **React**, **Vue**, **Java**, **Python**, **AWS Cloud**, and **SQL** .  
 
 Interested in building **Web Technologies and Products**.
 
-Passionate about **continuous learning** and staying up-to-date with the latest advancements in the field of software engineering. I look forward to applying my skills toward meaningful contributions in the tech industry.
+Passionate about **continuous learning** and staying up-to-date with the latest advancements in tech. I look forward to applying my skills toward meaningful contributions in the industry.
  
 
 ---
